@@ -1,0 +1,7 @@
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio POO Operação Bancaria\Exercicio POO Operação Bancaria\bin\Debug\Exercicio POO Operação Bancaria.exe.config
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio POO Operação Bancaria\Exercicio POO Operação Bancaria\bin\Debug\Exercicio POO Operação Bancaria.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio POO Operação Bancaria\Exercicio POO Operação Bancaria\bin\Debug\Exercicio POO Operação Bancaria.pdb
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio POO Operação Bancaria\Exercicio POO Operação Bancaria\obj\Debug\Exercicio POO Operação Bancaria.csproj.AssemblyReference.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio POO Operação Bancaria\Exercicio POO Operação Bancaria\obj\Debug\Exercicio POO Operação Bancaria.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio POO Operação Bancaria\Exercicio POO Operação Bancaria\obj\Debug\Exercicio POO Operação Bancaria.exe
+G:\Meu Drive\Backup\Documentos\ESTUDOS E PROJETOS ATUAIS\Estudos\C#\Projetos POO Udemy\Exercicio POO Operação Bancaria\Exercicio POO Operação Bancaria\obj\Debug\Exercicio POO Operação Bancaria.pdb
